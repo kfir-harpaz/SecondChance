@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SecondChance</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back_to_list">Back to List</string>
+    <string name="go_to_add">Go to Add</string>
+    <string name="go_to_detail">Go to Detail</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="product_list">Product List</string>
+    <string name="add_edit_product">Add / Edit Product</string>
+    <string name="Pname">שם המוצר</string>
+    <string name="DP">תיאור המוצר</string>
+    <string name="price">מחיר</string>
+    <string name="Picture">בחר תמונה</string>
+    <string name="SaveProduct">שמור מוצר</string>
+    <string name="_99">₪99</string>
+    <string name="product_details">Product Details</string>
+</resources>
