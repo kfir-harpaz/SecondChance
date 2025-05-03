@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">יד שנייה</string>
+    <string name="hello_blank_fragment">שלום פרגמנט</string>
+    <string name="back_to_list">חזרה לרשימה</string>
+    <string name="go_to_add">הוסף מוצר</string>
+    <string name="go_to_detail">פרטי מוצר</string>
+    <string name="go_to_settings">הגדרות</string>
+    <string name="product_list">רשימת מוצרים</string>
+    <string name="add_edit_product">הוספת / עריכת מוצר</string>
+    <string name="Pname">שם המוצר</string>
+    <string name="DP">תיאור המוצר</string>
+    <string name="price">מחיר</string>
+    <string name="Picture">בחר תמונה</string>
+    <string name="SaveProduct">שמור מוצר</string>
+    <string name="_99">99 ₪</string>
+    <string name="product_details">פרטי מוצר</string>
+</resources>
